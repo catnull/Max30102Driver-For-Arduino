@@ -6,7 +6,7 @@ rewrite for the max30102 sensor ,based on the max30100 driver originally coded b
 
 Arduino library for the Maxim Integrated MAX30100 oximetry / heart rate sensor.
 
-![MAX30100](http://www.mouser.com/images/microsites/Maxim_MAX30100.jpg)
+![MAX30100](http://www.mouser.com/images/microsites/Maxim_MAX30102.jpg)
 
 ## Disclaimer
 
