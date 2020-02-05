@@ -1,6 +1,6 @@
 #Arduino - Max 30102
 rewrite for the max30102 sensor ,based on the max30100 driver originally coded by the hacker from Russia.
-# Arduino-MAX30100
+# Arduino-MAX30102
 
 [![Build Status](https://travis-ci.org/oxullo/Arduino-MAX30100.svg?branch=master)](https://travis-ci.org/oxullo/Arduino-MAX30100)
 
